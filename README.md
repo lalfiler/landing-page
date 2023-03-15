@@ -1,0 +1,2 @@
+# landing-page
+I made a sample landing page for pugs with fun facts and pictures as an assignment to get a better understanding of HTML, CSS, and the flexbox attribute I learned from The Odin Project fundamentals course. I learned how using this technology makes it easy to create responsive webpages based on the size of the viewport.
